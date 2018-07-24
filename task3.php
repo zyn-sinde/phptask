@@ -5,7 +5,7 @@
  * Date: 2018/7/22
  * Time: 下午4:18
  */
-//在页面上显示odp下所有文件的路径及大小, 以json格式显示.
+//在页面上显示下所有文件的路径及大小, 以json格式显示.
 class Find_file_path
 {
     function _construct()
